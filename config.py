@@ -12,3 +12,4 @@ SESSION_NAME = os.environ.get("bot")
 
 # MongoDB URI (if you're using MongoDB)
 MONGODB_URI = os.environ.get("MONGODB_URI", "mongodb+srv://aio:aio@aio.5z4gxok.mongodb.net/?retryWrites=true&w=majority")
+ 
